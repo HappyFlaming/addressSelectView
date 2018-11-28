@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		591D0B9F21AE923E00B8D1D2 /* selectAddress.mov in Resources */ = {isa = PBXBuildFile; fileRef = 591D0B9E21AE923D00B8D1D2 /* selectAddress.mov */; };
+		591D0BA121AE961700B8D1D2 /* gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 591D0BA021AE961700B8D1D2 /* gif.gif */; };
 		59210B4D21AB8FBD00F0A833 /* BB_SelectAddressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59210B4C21AB8FBD00F0A833 /* BB_SelectAddressView.m */; };
 		59210B5421ABD27B00F0A833 /* Address.geojson in Resources */ = {isa = PBXBuildFile; fileRef = 59210B5321ABCDD000F0A833 /* Address.geojson */; };
 		59E1016E21A8035B000E916D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 59E1016D21A8035B000E916D /* AppDelegate.m */; };
@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		591D0B9E21AE923D00B8D1D2 /* selectAddress.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = selectAddress.mov; sourceTree = "<group>"; };
+		591D0BA021AE961700B8D1D2 /* gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif.gif; sourceTree = "<group>"; };
 		59210B4B21AB8FBD00F0A833 /* BB_SelectAddressView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BB_SelectAddressView.h; sourceTree = "<group>"; };
 		59210B4C21AB8FBD00F0A833 /* BB_SelectAddressView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BB_SelectAddressView.m; sourceTree = "<group>"; };
 		59210B5321ABCDD000F0A833 /* Address.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Address.geojson; sourceTree = "<group>"; };
@@ -98,7 +98,7 @@
 		59E1016021A8035B000E916D = {
 			isa = PBXGroup;
 			children = (
-				591D0B9E21AE923D00B8D1D2 /* selectAddress.mov */,
+				591D0BA021AE961700B8D1D2 /* gif.gif */,
 				59210B4A21AB8F7B00F0A833 /* SelectAddressView */,
 				59E1016B21A8035B000E916D /* AddressSelect */,
 				59E1018421A8035D000E916D /* AddressSelectTests */,
@@ -258,7 +258,7 @@
 				59E1017921A8035D000E916D /* LaunchScreen.storyboard in Resources */,
 				59E1017621A8035D000E916D /* Assets.xcassets in Resources */,
 				59E1017421A8035B000E916D /* Main.storyboard in Resources */,
-				591D0B9F21AE923E00B8D1D2 /* selectAddress.mov in Resources */,
+				591D0BA121AE961700B8D1D2 /* gif.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
